@@ -1,0 +1,5 @@
+# Internal session notes — this repo is the public website; never publish these
+SetPoint_*.md
+Resume_from_*.md
+.playwright-mcp/
+.claude/
